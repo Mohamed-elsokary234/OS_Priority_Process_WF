@@ -1,0 +1,27 @@
+c:\users\el sokary\documents\visual studio 2013\Projects\TESTOS\TESTOS\bin\Debug\TESTOS.exe.config
+c:\users\el sokary\documents\visual studio 2013\Projects\TESTOS\TESTOS\bin\Debug\TESTOS.exe
+c:\users\el sokary\documents\visual studio 2013\Projects\TESTOS\TESTOS\bin\Debug\TESTOS.pdb
+c:\users\el sokary\documents\visual studio 2013\Projects\TESTOS\TESTOS\obj\Debug\TESTOS.csprojResolveAssemblyReference.cache
+c:\users\el sokary\documents\visual studio 2013\Projects\TESTOS\TESTOS\obj\Debug\TESTOS.Form1.resources
+c:\users\el sokary\documents\visual studio 2013\Projects\TESTOS\TESTOS\obj\Debug\TESTOS.Properties.Resources.resources
+c:\users\el sokary\documents\visual studio 2013\Projects\TESTOS\TESTOS\obj\Debug\TESTOS.csproj.GenerateResource.Cache
+c:\users\el sokary\documents\visual studio 2013\Projects\TESTOS\TESTOS\obj\Debug\TESTOS.exe
+c:\users\el sokary\documents\visual studio 2013\Projects\TESTOS\TESTOS\obj\Debug\TESTOS.pdb
+C:\Users\el sokary\Desktop\mohammed abd alghni al sokary\TESTOS\bin\Debug\TESTOS.exe.config
+C:\Users\el sokary\Desktop\mohammed abd alghni al sokary\TESTOS\obj\Debug\TESTOS.exe
+C:\Users\el sokary\Desktop\mohammed abd alghni al sokary\TESTOS\obj\Debug\TESTOS.pdb
+C:\Users\el sokary\mohammed abd alghni al sokary\TESTOS\bin\Debug\TESTOS.exe.config
+C:\Users\el sokary\mohammed abd alghni al sokary\TESTOS\obj\Debug\TESTOS.exe
+C:\Users\el sokary\mohammed abd alghni al sokary\TESTOS\obj\Debug\TESTOS.pdb
+F:\old program vs\mohammed abd alghni al sokary\TESTOS\bin\Debug\TESTOS.exe.config
+F:\old program vs\mohammed abd alghni al sokary\TESTOS\obj\Debug\TESTOS.exe
+F:\old program vs\mohammed abd alghni al sokary\TESTOS\obj\Debug\TESTOS.pdb
+F:\Projects before iti for visual stadio 2g\old program vs50g\mohammed abd alghni al sokary\TESTOS\bin\Debug\TESTOS.exe.config
+F:\Projects before iti for visual stadio 2g\old program vs50g\mohammed abd alghni al sokary\TESTOS\bin\Debug\TESTOS.exe
+F:\Projects before iti for visual stadio 2g\old program vs50g\mohammed abd alghni al sokary\TESTOS\bin\Debug\TESTOS.pdb
+F:\Projects before iti for visual stadio 2g\old program vs50g\mohammed abd alghni al sokary\TESTOS\obj\Debug\TESTOS.csprojAssemblyReference.cache
+F:\Projects before iti for visual stadio 2g\old program vs50g\mohammed abd alghni al sokary\TESTOS\obj\Debug\TESTOS.Form1.resources
+F:\Projects before iti for visual stadio 2g\old program vs50g\mohammed abd alghni al sokary\TESTOS\obj\Debug\TESTOS.Properties.Resources.resources
+F:\Projects before iti for visual stadio 2g\old program vs50g\mohammed abd alghni al sokary\TESTOS\obj\Debug\TESTOS.csproj.GenerateResource.cache
+F:\Projects before iti for visual stadio 2g\old program vs50g\mohammed abd alghni al sokary\TESTOS\obj\Debug\TESTOS.exe
+F:\Projects before iti for visual stadio 2g\old program vs50g\mohammed abd alghni al sokary\TESTOS\obj\Debug\TESTOS.pdb
